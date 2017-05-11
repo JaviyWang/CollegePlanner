@@ -1,11 +1,11 @@
  5/4/17
 	 Today I will look at my old from last year to relearn html,css, and javascript.
-	 Today I finsied Looking at my old code and I know what i want to do to make this project better.
+	 Today I finshied Looking at my old code and I know what i want to do to make this project better.
 	 
 5/5/17
 	Today I will continue to review html code and see how to get boxes to appear on the screen.
 	Today i was able to start coding the basic layout of our project.
-	i even worte out a plan and how many buttons we would need as well as what we would need 
+	i even wrote out a plan and how many buttons we would need as well as what we would need 
 	to include to make this more efficient than the Cuny First site now.
 	
 	5/8/17
@@ -15,3 +15,7 @@
 	Today I am going to work on a dropdown menu for the different classes that the colleges offer.
 	I'm currently adding courses and course numbers. I'm also looking for a way to add extra classes 
 	depending on which college you got into.
+	
+	5/11/17
+	Today Alan and I created a dynamic way of adding courses to colleges rather than hard coding everything 
+	we will also add in a parameter so that depending on which college you select you are offered different courses.
